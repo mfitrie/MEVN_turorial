@@ -1,7 +1,7 @@
 /* eslint-disable */
 const axios = require('axios');
 
-const url = 'http://localhost:5000/api/posts/';
+const url = '/api/posts/';
 
 class PostService{
     // Get Posts
